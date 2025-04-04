@@ -28,7 +28,7 @@ Python version: 3.7.12 | packaged by conda-forge | (default, Oct 26 2021, 05:35:
 NumPy version: 1.19.5
 Matplotlib version: 3.5.3
 
-No non-standard hardware is required, no special installation is required, except for NumPy and Matplotlib which take around a min to install. 
+No non-standard hardware is required, no special installation is required, except for NumPy and Matplotlib which take around a minute to install. 
 
 The code can be copied into a Jupyter notebook and should work provided the above packages are installed. The input data is simulated in the code. The expected output is given in the SI Section 11, and gives the histogram, as show in the manuscript and SI (Figure 4c and Figure S49), and a line of code where the mean rotations of the population of simulated molecules in the specified time is given in degrees. The code including importing of packages takes 20 seconds to run on a standard system.
 
