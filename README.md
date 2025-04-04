@@ -30,9 +30,9 @@ Matplotlib version: 3.5.3
 
 No non-standard hardware is required, no special installation is required, except for NumPy and Matplotlib which take around a minute to install. 
 
-The code can be copied into a Jupyter notebook and should work provided the above packages are installed. The input data is simulated in the code. The expected output is given in the SI Section 11, and gives the histogram, as show in the manuscript and SI (Figure 4c and Figure S49), and a line of code where the mean rotations of the population of simulated molecules in the specified time is given in degrees. The code including importing of packages takes 20 seconds to run on a standard system.
+The code can be copied into a Jupyter notebook and should work provided the above packages are installed. The input data is simulated in the code. The expected output is given in the SI Section 11, and gives the histogram, as show in the manuscript and SI (Figure 4c and Figure S49), and a line of text where the mean rotations of the population of simulated molecules in the specified time is given in degrees. The code including takes 20 seconds to run, which includes the importing of NumPy and Mapplotlib packages, on a standard system.
 
-The cell with the code in on the Jupyter Notebook can be run to produce the desired output, due to the nature of probabilities extreme cases (+4320, -1080) may appear/diappear from the x-axis which may affect the formatting.
+The cell with the code in on the Jupyter Notebook can be run to produce the desired output, due to the nature of probabilities extreme cases (+4320, -1080) may appear/diappear from the x-axis which may affect the formatting of the histogram.
 
 
 
